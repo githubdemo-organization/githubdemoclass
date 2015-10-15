@@ -1,6 +1,6 @@
 package githubdemoclass;
 
-public class ProvaDue {
+public class ProvaTre {
 
 	public static void main(String[] args) {
 		System.out.println("Commit Alice");
